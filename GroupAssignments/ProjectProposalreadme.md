@@ -1,5 +1,5 @@
 # Project Proposal
-## The Question: 
+## The Plan: 
 #### I will examen the land uses and attractions along the most dangerous areas of California's right-of-way in Los Angeles County for cyclists and pedestrians, and evaluate whether certain land uses create a higher likelihood of crashes.
 ## Why it Matters:
 #### By overlaying crash data of cyclists and pedestrians over a map of Los Angeles County, I am able to determine more dangerous areas along the State of California's right-of-way. This overlay informs Caltrans Planners of areas that need to be made more safe, but gives little context of why these areas are so dangerous and how to better plan such areas for future Capital Projects. By identifying land uses that can potentially increase dangerous situations for cyclists and pedestrians in advance of expending resources, lives and money can be saved by updating the most dangerous roadways first, and building newer roadways to be safer. 
